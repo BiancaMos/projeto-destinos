@@ -17,7 +17,7 @@ PT-BR: Projeto recriando layout (iniciante) "Flutuar"
   - [HTML](##HTML)
   - [CSS](###CSS) 
   - [Git e Github](https://github.com/) 👩🏻‍💻
-  - [Figma](https://www.figma.com/) 💡
+  - [Figma](https://www.figma.com/file/AFXQd6RRdZqybEW5ckWgeV/Projeto01-Extra-(Copy)?node-id=0%3A1&t=LVs0Ka2S7OGWuSyR-0) 💡
 
 </h3>
 
